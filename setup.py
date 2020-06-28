@@ -1,0 +1,3 @@
+setup(
+    name='Covid19 sentimental analysis_Catalyst',
+...
